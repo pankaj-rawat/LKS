@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/angular-mocks.js"></script>
+    <script src="Scripts/jquery-1.9.0.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="app/app.js"></script>
+    <script src="common/services/common.services.js"></script>
+    <script src="common/services/newspostResource.js"></script>
+    <script src="common/services/newspostResourceMock.js"></script>
+    <script src="app/newsposts/newspostListCtrl.js"></script>
+    <script src="Scripts/angular-ui/ui-bootstrap.js"></script>
+    <script src="Scripts/angular-ui/ui-bootstrap.min.js"></script>
+    <title></title>
+</head>
+<body data-ng-app="newspostmodule">
+    <div class="container" data-ng-controller="NewsPostListCtrl as npCtrl">
+        <div class="row" data-ng-repeat="newspost in npCtrl.newsposts">
+            <div class="col-sm-1"
+            <table class="table-responsive">
+                <tbody>
+                    <tr>
+                        <td rowspan="2"><img class="img-thumbnail" data-ng-src="{{newspost.imagePath}}" /></td>
+                        <td><a data-ng-href="aaa">{{newspost.heading}}</a></td>
+                    </tr>
+                    <tr>
+                        <td><div class="pull-left">{{newspost.author}}</div> <div class="pull-right">{{newspost.postDate}}</div></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

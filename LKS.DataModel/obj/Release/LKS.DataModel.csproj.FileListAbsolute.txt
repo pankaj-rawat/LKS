@@ -1,0 +1,15 @@
+C:\Training\LKS\LKS.DataModel\obj\Release\LKS.DataModel.csprojResolveAssemblyReference.cache
+C:\Training\LKS\LKS.DataModel\obj\Release\LKS.DataModel.Migrations.InitialMigration.resources
+C:\Training\LKS\LKS.DataModel\obj\Release\LKS.DataModel.Migrations.Singular.resources
+C:\Training\LKS\LKS.DataModel\obj\Release\LKS.DataModel.csproj.GenerateResource.Cache
+C:\Training\LKS\LKS.DataModel\bin\Release\LKS.DataModel.dll.config
+C:\Training\LKS\LKS.DataModel\bin\Release\LKS.DataModel.dll
+C:\Training\LKS\LKS.DataModel\bin\Release\LKS.DataModel.pdb
+C:\Training\LKS\LKS.DataModel\bin\Release\EntityFramework.dll
+C:\Training\LKS\LKS.DataModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Training\LKS\LKS.DataModel\bin\Release\LKS.Entities.dll
+C:\Training\LKS\LKS.DataModel\bin\Release\LKS.Entities.pdb
+C:\Training\LKS\LKS.DataModel\bin\Release\EntityFramework.xml
+C:\Training\LKS\LKS.DataModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Training\LKS\LKS.DataModel\obj\Release\LKS.DataModel.dll
+C:\Training\LKS\LKS.DataModel\obj\Release\LKS.DataModel.pdb
