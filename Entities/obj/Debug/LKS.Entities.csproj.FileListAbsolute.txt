@@ -1,0 +1,5 @@
+C:\Training\LKS\Entities\bin\Debug\LKS.Entities.dll
+C:\Training\LKS\Entities\bin\Debug\LKS.Entities.pdb
+C:\Training\LKS\Entities\obj\Debug\LKS.Entities.csprojResolveAssemblyReference.cache
+C:\Training\LKS\Entities\obj\Debug\LKS.Entities.dll
+C:\Training\LKS\Entities\obj\Debug\LKS.Entities.pdb

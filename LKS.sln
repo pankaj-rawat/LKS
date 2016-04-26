@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LKSapi", "LKSapi\LKSapi.csproj", "{2667AD30-F584-464B-93B9-A3448D4FD363}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LKSWebClient(1)", "http://localhost:57450", "{E53324CF-490E-4147-A082-FB749ECB1AC3}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57450"
+		Debug.AspNetCompiler.PhysicalPath = "LKSWebClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57450\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57450"
+		Release.AspNetCompiler.PhysicalPath = "LKSWebClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57450\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "LKSWebClient\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LKS.Entities", "Entities\LKS.Entities.csproj", "{7BC7F6A0-4C0D-4D58-9D29-3383072B5AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LKS.DataModel", "LKS.DataModel\LKS.DataModel.csproj", "{7CAB730E-747F-422A-8126-05EEB2B8E1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2667AD30-F584-464B-93B9-A3448D4FD363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2667AD30-F584-464B-93B9-A3448D4FD363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2667AD30-F584-464B-93B9-A3448D4FD363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2667AD30-F584-464B-93B9-A3448D4FD363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53324CF-490E-4147-A082-FB749ECB1AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53324CF-490E-4147-A082-FB749ECB1AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53324CF-490E-4147-A082-FB749ECB1AC3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53324CF-490E-4147-A082-FB749ECB1AC3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7BC7F6A0-4C0D-4D58-9D29-3383072B5AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC7F6A0-4C0D-4D58-9D29-3383072B5AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC7F6A0-4C0D-4D58-9D29-3383072B5AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC7F6A0-4C0D-4D58-9D29-3383072B5AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAB730E-747F-422A-8126-05EEB2B8E1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAB730E-747F-422A-8126-05EEB2B8E1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAB730E-747F-422A-8126-05EEB2B8E1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAB730E-747F-422A-8126-05EEB2B8E1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Training\LKS\LKS.DataModel\obj\Debug\LKS.DataModel.csprojResolveAssemblyReference.cache
+C:\Training\LKS\LKS.DataModel\bin\Debug\LKS.DataModel.dll.config
+C:\Training\LKS\LKS.DataModel\bin\Debug\LKS.DataModel.dll
+C:\Training\LKS\LKS.DataModel\bin\Debug\LKS.DataModel.pdb
+C:\Training\LKS\LKS.DataModel\bin\Debug\EntityFramework.dll
+C:\Training\LKS\LKS.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Training\LKS\LKS.DataModel\bin\Debug\LKS.Entities.dll
+C:\Training\LKS\LKS.DataModel\bin\Debug\LKS.Entities.pdb
+C:\Training\LKS\LKS.DataModel\bin\Debug\EntityFramework.xml
+C:\Training\LKS\LKS.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Training\LKS\LKS.DataModel\obj\Debug\LKS.DataModel.dll
+C:\Training\LKS\LKS.DataModel\obj\Debug\LKS.DataModel.pdb
+C:\Training\LKS\LKS.DataModel\obj\Debug\LKS.DataModel.Migrations.InitialMigration.resources
+C:\Training\LKS\LKS.DataModel\obj\Debug\LKS.DataModel.csproj.GenerateResource.Cache
+C:\Training\LKS\LKS.DataModel\obj\Debug\LKS.DataModel.Migrations.Singular.resources
